@@ -1,4 +1,4 @@
-package pl.teslachorzow.kontrolaprzeplywu;
+package pl.teslachorzow.Ckontrolaprzeplywu;
 
 public class Main04 {
     public static void main(String[] args) {

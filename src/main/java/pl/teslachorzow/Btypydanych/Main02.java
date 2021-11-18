@@ -1,4 +1,4 @@
-package pl.teslachorzow.typydanych;
+package pl.teslachorzow.Btypydanych;
 
 public class Main02 {
     public static void main(String[] args) {

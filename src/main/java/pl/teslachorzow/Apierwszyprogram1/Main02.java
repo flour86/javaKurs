@@ -1,4 +1,4 @@
-package pl.teslachorzow.apierwszyprogram1;
+package pl.teslachorzow.Apierwszyprogram1;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 

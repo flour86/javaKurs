@@ -1,4 +1,4 @@
-package pl.teslachorzow.typydanych;
+package pl.teslachorzow.Btypydanych;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package pl.teslachorzow.apierwszyprogram1;
+package pl.teslachorzow.Apierwszyprogram1;
 
 public class Main01 {
     //psvm
