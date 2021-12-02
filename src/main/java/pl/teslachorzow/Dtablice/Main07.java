@@ -10,6 +10,6 @@ public class Main07 {
         }
         avg = avg / temps.length;
         String przecinek = String.format( "%.2f", avg );
-        System.out.println(przecinek);
+        System.out.println("srednia wynosi: " + przecinek);
     }
 }
